@@ -58,9 +58,9 @@ Currently exploring:
 ---
 
 ## 📫 Let's Connect!
-📧 **Email:** your.email@example.com  
-💼 **LinkedIn:** [linkedin.com/in/YOUR_LINK](linkedin.com/in/osinachi-ifeanyi)
-🐦 **Twitter:** [twitter.com/YOUR_HANDLE](https://x.com/IfeanyiOs1)  
+📧 **Email:** osimachifeanyi@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/osinachi-ifeanyi](linkedin.com/in/osinachi-ifeanyi)
+🐦 **Twitter:** [twitter.com/IfeanyiOs1](https://x.com/IfeanyiOs1)  
 🌐 **Portfolio:** [your-portfolio.com](YOUR_PORTFOLIO_URL)  
 
 ---
